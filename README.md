@@ -8,4 +8,7 @@ I would like to become a full stack developer.
 ## Links: 
 -[Linked In:](https://www.linkedin.com/in/vgssainallapati/)
 
-![Photograph](https://github.com/NVGSSAI/big-data-developer/blob/main/image.jpeg)
+![Photograph][logo]
+
+[logo]: https://github.com/NVGSSAI/big-data-developer/blob/main/image.jpeg
+
