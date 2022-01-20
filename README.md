@@ -6,7 +6,7 @@ I have completed my bachelor's in Computer Science from JNTU Hyderabad. I love w
 ## Plans:
 I would like to become a full stack developer.
 ## Links: 
-<p>-[Linked In:](https://www.linkedin.com/in/vgssainallapati/)</p>
+<p> -[Linked In:](https://www.linkedin.com/in/vgssainallapati/) </p>
 -[Github Link](https://github.com/NVGSSAI/big-data-develope)
 
 
